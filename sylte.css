@@ -1,0 +1,159 @@
+.menu-navbar a{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+.active{
+    color: #39DB4A !important ;
+}
+.menu-navbar li{
+    margin-left: 3rem;
+}
+.icon-Nav{
+    font-size: 1.25rem;
+    color: black;
+}
+.phone-icon{
+    padding: 13px 35px;
+    background-color: #39DB4A;
+
+}
+.mainSection-Padding{
+    padding: 3rem 0px ;
+    
+}
+.Main-Text{
+font-size: 40px;
+font-weight: 700;
+}
+.green{
+    color: #39DB4A;
+}
+.text-gray{
+    color: #7c7c7c !important;
+}
+.btn-primary{
+color: #fff;
+background-color: #39DB4A;
+border: none;
+font-size: 20px;
+font-weight: bold;
+padding: 10px 40px;
+}
+.btn-primary:hover{
+    background-color: #59ab61;
+}
+
+.hero-watch a{
+    text-decoration: none;
+    color: black;
+}
+.play {
+    font-size: 20px;
+}
+.max-wisth{
+    max-width: 400px;
+}
+.table-striped>tbody>tr:nth-of-type(odd)>*{
+    background-color: #e0fce0 !important;
+}
+.w-90{
+    width: 90% !important;
+}
+.sub-text{
+    color: #FF6868;
+    font-size: 19px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.All-Arrow{
+    padding: 16px ;
+    background-color: #39DB4A;
+    border-radius: 50%;
+}
+.arrow span i{
+  font-size: 20px;
+  color: #fff;
+}
+.dollar{
+    color: #FF6868;
+}
+.img-menu{
+    max-width: 170px;
+}
+.shadow-coustom{
+  box-shadow:   1px 5px 26px 2px rgba(0, 0, 0, 0.144);
+  border-radius: 20px;
+}
+.m-6{
+margin-left: 80px;
+}
+
+.card:hover{
+border: #39DB4A 1px solid !important;
+
+
+}
+input{
+    padding: 7px 15px;
+    border-radius: 10px ;
+    outline: #39DB4A;
+    border: 1px solid rgb(181, 181, 181);
+    width: 100%;
+}
+.btn-contanct{
+    background-color: #39DB4A;
+    color: #fff;
+    border-radius: 10px;
+
+}
+.btn-contanct:hover{
+
+    background-color: #59ab61;
+    color: #fff;
+}
+
+input:hover{
+border: 1px solid #39DB4A ;
+
+
+}
+input:focus{
+
+border: 1px solid #39DB4A;
+
+}
+.favCARD img{
+    width: 120px;
+    padding: 5px;
+    background-color: #C1F1C6;
+    border-radius: 50%;
+vertical-align: middle;
+
+
+}
+.card{
+    border: none !important;
+}
+.cardFavContneet{
+box-shadow:1px 5px 26px 2px rgba(0, 0, 0, 0.144) ;
+border-radius: 20px;
+border: none !important;
+
+}
+.pe{
+   margin-left: 50px;
+}
+.foter-ul{
+    list-style-type: none;
+}
+.foter-ul li{
+    margin-bottom: 15px;
+}
+.mb-15{
+    margin-bottom: 15px;}
+
+    
+    .foter-bg{
+        background-color: #39DB4A;
+    }
